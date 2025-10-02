@@ -1,6 +1,7 @@
 # 📊 Blinkit Sales Analysis Dashboard  
 
 
+
 ## 🚀 About the Project  
 
 This repository showcases an **interactive Power BI dashboard** created to analyze **Blinkit sales performance** across outlets, item categories, and locations.  
