@@ -40,9 +40,7 @@ The goal is to provide **business insights** for decision-making and performance
 ---
 
 ###	Screenshots / Demos
-Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
 Example: ![Dashboard Preview](https://github.com/sayan-ghosh8124/Blinkit-Dashboard/blob/main/snapshot%20of%20the%20dashboard.png)
-
 
 ---
 
